@@ -9,6 +9,9 @@ public class MatrixCombined {
 
   public static void main(String[] args) {
 
-  }
+    int[] firstArray = new int[Integer.parseInt(args[0])];
+    int[] secondArray = new int[Integer.parseInt(args[0])];
 
+
+  }
 }
